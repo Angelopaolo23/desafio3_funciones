@@ -4,4 +4,4 @@ suma = function(a, b) {
 }
 /*ARROW FUNCTION*/ 
 
-suma = (a, b) => a + b;
+const suma = (a, b) => a + b;
